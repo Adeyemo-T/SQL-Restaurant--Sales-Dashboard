@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/5d96bd30-e279-4d66-ae5f-f5e8df85597d)
 ##  Project Background
 
 A restaurant business requires continuous operational intelligence to analyze sales trends, identify high-performing menu items, and optimize staffing schedules based on demand. The goal is to maximize revenue and average order value while ensuring efficient daily operations.
@@ -27,7 +28,7 @@ The model uses one primary table containing all aggregated fields, including:
 * **Dimensional Fields:** Item Name, Day of Week, Month, and Category.
 
 This simplified structure is ideal for focused, high-speed reporting on core operational performance.
-
+![Image](https://github.com/user-attachments/assets/23ac6a7d-c074-4f96-a7c5-0a9b40280eb2)
 #### Data Cleaning and Preparation
 The data cleaning and preparation process was primarily executed using **Power Query (M Language)** after the initial SQL import.
 
@@ -46,8 +47,7 @@ The restaurant is performing steadily with total **Revenue of $26K** and a healt
 * **Core Performance:** The restaurant maintains a strong **Average Order Value ($6)** across **4,567 total orders**.
 * **Monthly Volatility:** The revenue trend reveals pronounced dips, notably a significant drop between July and September, requiring strategic intervention to maintain revenue targets during off-peak periods.
 
-![Restaurant Sales KPIs and Monthly Trend](YOUR_IMAGE_LINK_FOR_REVENUE_TREND_CHART_HERE)
-*(**Action:** Insert the image link showing the **$26K Revenue KPI, $6 Avg Order Value, and the Revenue Trend Over Time line chart**.)*
+![Image](https://github.com/user-attachments/assets/9c4456b2-15e2-41e5-85eb-1d3138ebbadb)
 
 
 
@@ -56,8 +56,8 @@ The restaurant is performing steadily with total **Revenue of $26K** and a healt
 * **Menu Reliance:** The **Top Selling Items** are dominated by classic comfort foods like **Mac & Cheese, Meat Lasagna, and Fettuccine Alfredo**, which are the most reliable revenue drivers.
 * **High-Value Categories:** The **Top 5 Category Contribution to Sales** shows that **Shrimp Scampi (22.23%)** and **Meat Lasagna (21.56%)** are the most valuable categories.
 
-![Top Selling Items and Category Breakdown](YOUR_IMAGE_LINK_FOR_TOP_SELLING_ITEMS_AND_CATEGORY_CHART_HERE)
-*(**Action:** Insert the image link showing the **Top Selling Items bar chart and the Top 5 Category Contribution to Sales donut chart**.)*
+![Image](https://github.com/user-attachments/assets/45af0822-3add-4b16-928c-f58d49e7b35a)
+![Image](https://github.com/user-attachments/assets/27e6bf5d-4845-4380-9b5d-3276a75c70e1)
 
 
 
@@ -66,8 +66,8 @@ The restaurant is performing steadily with total **Revenue of $26K** and a healt
 * **Peak Demand Days:** Analysis of **Orders by Day of Week** indicates that **Mondays (1,519 orders)** and **Saturdays (1,508 orders)** are the busiest days, representing critical peak periods for staffing.
 * **Consistent Order Value:** The **Average Revenue per Order by Day of Week** is remarkably consistent (around **$0.28 to $0.30**), suggesting staffing can be based purely on **order volume**.
 
-![Orders by Day of Week and Avg Revenue by Day](YOUR_IMAGE_LINK_FOR_DAILY_ORDERS_AND_AVG_REVENUE_CHART_HERE)
-*(**Action:** Insert the image link showing the **Orders by Day of Week bar chart and the avg revenue per order by day of week bar chart**.)*
+![Image](https://github.com/user-attachments/assets/345471c3-e390-4aca-ae55-6ef69364e323)
+![Image](https://github.com/user-attachments/assets/dc1dabff-ab9f-449f-a94b-878f997d6d07)
 
 ##  Business Recommendations
 
